@@ -39,8 +39,6 @@ _The Dataset is ready for visualization_
 _Approach to Problem Statement_: Using a pivot table to generate the answer
 
 
-![](The_Analysis.JPG)
-
 1. Which Location Generated the Highest Sales?
 Using a Pivot Table, the location that generated the highest sales in supplements is Canada, with a total revenue of ₦7,848,579 and an average unit sold of 150.
 This is followed by the UK and the USA, which recorded ₦7,703,960 and ₦7,360,740 respectively, with average units, sold of 149.99 and 150.63.
