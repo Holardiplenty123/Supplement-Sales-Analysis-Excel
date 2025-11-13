@@ -24,8 +24,21 @@ Things done on the dataset:
 - handling missing or inconsistent data.
 - Removing duplicates and outliers.
 - Formatting data types
+  
 _The Dataset is ready for visualization_
 
+![](Cleaned_Dataset.JPG)
 
+## Problem Statement
+
+- Which Location Generated the Highest Sales?
+- Which Platform Recorded the Highest Sales?
+- Which Product Recorded the Highest Sales Across Platforms and Locations?
+- Evaluation of Sales across the Years (2020–2025)
+
+_Approach to Problem Statement_: Using a pivot table to generate the answer
+
+
+![](The_Analysis.JPG.JPG)
 
 
