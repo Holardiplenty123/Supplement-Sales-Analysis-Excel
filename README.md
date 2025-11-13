@@ -66,6 +66,43 @@ However, in 2025, there is a sharp decline in total revenue, marking a significa
 
 ![](The_Dashboard.JPG)
 
+## Conclusion
+
+The sales analysis from 2020 to 2025 reveals consistent growth in supplement sales across regions and platforms until a notable decline occurred in 2025. Canada emerged as the leading sales location, while iHerb proved to be the most profitable platform. Biotin Supplements stood out as the highest-selling product, highlighting strong consumer interest in wellness and beauty-related supplements.
+
+Although the market showed stability over the years, the sudden drop in 2025 suggests emerging challenges that require prompt investigation. By focusing on high-performing regions, strengthening partnerships, promoting top-selling products, and analyzing the cause of the 2025 decline, the company can improve future sales performance and regain growth momentum.
+
+## Recommendation
+
+Based on the findings from the supplement sales analysis (2020–2025), the following recommendations are suggested to improve sales performance and strategic decision-making:
+
+- Focus More Marketing and Distribution Efforts in Canada
+Since Canada generated the highest total revenue, expanding product availability, targeted promotions, and customer engagement strategies in this region can further increase sales.
+
+- Strengthen Partnership with iHerb
+IHerb recorded the highest sales among platforms. Increasing product visibility, running exclusive deals, and negotiating better placement on the platform can maximize returns.
+
+- Increase Stock and Promotion for Biotin Supplements
+Biotin was the top-selling product. Maintaining adequate stock levels, bundling with complementary supplements, and highlighting product benefits can help boost revenue even more.
+
+- Investigate the Revenue Decline in 2025
+The sharp drop in revenue in 2025 signals a problem. A deeper analysis should be carried out to determine possible causes such as:
+
+- Reduced consumer spending
+
+- Stronger competition
+
+- Supply chain issues
+
+- Pricing or discount strategy changes
+- Understanding the root cause will prevent further declines.
+
+- Enhance Customer Retention Strategies
+Using customer feedback, loyalty programs, and personalized marketing may help stabilize sales, especially in low-performing years.
+
+- Optimize Pricing and Discount Strategies
+Monitor how discount levels affect sales volume and revenue. Adjust pricing to maximize profit without losing customers.
+
 
 
 
