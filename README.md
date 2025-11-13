@@ -26,6 +26,6 @@ Things done on the dataset:
 - Formatting data types
 _The Dataset is ready for visualization_
 
-![](The_Cleaned_ Dataset.JPG)
+
 
 
