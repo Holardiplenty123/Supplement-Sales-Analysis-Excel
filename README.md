@@ -1,6 +1,6 @@
 # Supplement's-Sales-Analysis
 
-![](Sales_Image.jpg)
+![](Supplement_Image.jpg)
 ---
 
 ## Introduction
@@ -36,8 +36,10 @@ _The Dataset is ready for visualization_
 - Which Product Recorded the Highest Sales Across Platforms and Locations?
 - Evaluation of Sales across the Years (2020–2025)
 
-_Approach to Problem Statement_: Using a pivot table to generate the answer
+_Approach to Problem Statement_: Using a pivot table in Microsoft Excel
 
+
+## The Analysis
 
 1. Which Location Generated the Highest Sales?
 Using a Pivot Table, the location that generated the highest sales in supplements is Canada, with a total revenue of ₦7,848,579 and an average unit sold of 150.
